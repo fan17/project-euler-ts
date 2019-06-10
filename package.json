@@ -1,0 +1,22 @@
+{
+  "name": "project-euler-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedrzejczak/project-euler-ts.git"
+  },
+  "author": "jedrzejczak <jedrzejczak.andrzej89@gmail.com> (https://github.com/jedrzejczak)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jedrzejczak/project-euler-ts/issues"
+  },
+  "homepage": "https://github.com/jedrzejczak/project-euler-ts#readme",
+  "devDependencies": {
+    "typescript": "^3.5.1"
+  }
+}
